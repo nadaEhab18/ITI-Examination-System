@@ -1,0 +1,90 @@
+<?xml version="1.0"?>
+<SqlWorkbenchSqlProject xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Name="ITI_Examination_System">
+  <Items>
+    <LogicalFolder Name="Connections" Type="2" Sorted="true">
+      <Items>
+        <ConnectionNode Name="MINAMAGDY\SQLEXPRESS:MINAMAGDY\minam">
+          <Created>2025-08-22T20:21:10.1770901+03:00</Created>
+          <Type>SQL</Type>
+          <Server>MINAMAGDY\SQLEXPRESS</Server>
+          <UserName />
+          <Authentication>Windows Authentication</Authentication>
+          <InitialDB>master</InitialDB>
+          <LoginTimeout>30</LoginTimeout>
+          <TrustServerCertificate>True</TrustServerCertificate>
+          <EncryptionOption>True</EncryptionOption>
+          <ExecutionTimeout>0</ExecutionTimeout>
+          <ConnectionProtocol>NotSpecified</ConnectionProtocol>
+          <ApplicationName>Microsoft SQL Server Management Studio - Query</ApplicationName>
+        </ConnectionNode>
+      </Items>
+    </LogicalFolder>
+    <LogicalFolder Name="Queries" Type="0" Sorted="true">
+      <Items>
+        <FileNode Name="DataBase Creation.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>DataBase Creation.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Excution Stored_Procedures for Exam.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:MINAMAGDY\SQLEXPRESS:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>MINAMAGDY\SQLEXPRESS</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Excution Stored_Procedures for Exam.sql</FullPath>
+        </FileNode>
+        <FileNode Name="ExecutionStored_Procedures_for update and display.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:MINAMAGDY\SQLEXPRESS:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>MINAMAGDY\SQLEXPRESS</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>ExecutionStored_Procedures_for update and display.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Functions.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:MINAMAGDY\SQLEXPRESS:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>MINAMAGDY\SQLEXPRESS</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Functions.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Insertation_Dumy_Data.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:MINAMAGDY\SQLEXPRESS:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>MINAMAGDY\SQLEXPRESS</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Insertation_Dumy_Data.sql</FullPath>
+        </FileNode>
+        <FileNode Name="StoredProceduresForEXAM.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:MINAMAGDY\SQLEXPRESS:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>MINAMAGDY\SQLEXPRESS</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>StoredProceduresForEXAM.sql</FullPath>
+        </FileNode>
+        <FileNode Name="StoredProsedure_UPdate.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:MINAMAGDY\SQLEXPRESS:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>MINAMAGDY\SQLEXPRESS</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>StoredProsedure_UPdate.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Triggers.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:MINAMAGDY\SQLEXPRESS:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>MINAMAGDY\SQLEXPRESS</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Triggers.sql</FullPath>
+        </FileNode>
+        <FileNode Name="USERSCREATION.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:MINAMAGDY\SQLEXPRESS:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>MINAMAGDY\SQLEXPRESS</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>USERSCREATION.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Views.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:MINAMAGDY\SQLEXPRESS:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>MINAMAGDY\SQLEXPRESS</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Views.sql</FullPath>
+        </FileNode>
+      </Items>
+    </LogicalFolder>
+    <LogicalFolder Name="Miscellaneous" Type="3" Sorted="true">
+      <Items />
+    </LogicalFolder>
+  </Items>
+</SqlWorkbenchSqlProject>
